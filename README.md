@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/Rashin-dq/RASHIN-1">RASHIN-1</a> 
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Rashin-dq
+$ git clone https://github.com/Rashin-dq/RASHIN-1
 $ cd RASHIN-1
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -49,7 +49,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Rashin-dq
+$ git clone https://github.com/Rashin-dq/RASHIN-1
 $ cd RASHIN-1
 $ npm i
 $ node julie.js
