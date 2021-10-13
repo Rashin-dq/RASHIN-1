@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+RASHIN-1+WA+Bot+repo;Created+by+Amal;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+RASHIN-1+WA+Bot+repo;Created+by+RASHIN;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/Rashin-dq/RASHIN-1">RASHIN-1</a> 
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Rashin-dq/RASHIN-1
+$ git clone https://github.com/Rashin-dq
 $ cd RASHIN-1
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -49,7 +49,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Rashin-dq/RASHIN-1
+$ git clone https://github.com/Rashin-dq
 $ cd RASHIN-1
 $ npm i
 $ node julie.js
