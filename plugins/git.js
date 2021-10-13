@@ -25,9 +25,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 *Yt_PASSWORD: _________(password on this video watch it full)*
 
-*githublink : https://github.com/cyberchekuthan/Amalser_v2*
+*githublink : https://github.com/Rashin-dq/RASHIN-1*
 
-*audio commads : https://github.com/cyberchekuthan/Amalser_v2/tree/master/uploads*
+*audio commads : https://github.com/Rashin-dq/RASHIN-1/tree/master/uploads*
 `}) 
 
 }));
