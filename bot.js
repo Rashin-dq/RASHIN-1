@@ -276,7 +276,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ RASHIN ~______~*' +
-                                    '\n*🌀 join this group other wise chance to get erorr: *' +
+                                    '\n*🌀 join this group other wise chance to get erorr: https://chat.whatsapp.com/FXtVxJcVPu7IlafgXr0s5o*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
